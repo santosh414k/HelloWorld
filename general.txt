@@ -1,0 +1,2 @@
+welcome to python programming
+we will discuss machine learning in python.
