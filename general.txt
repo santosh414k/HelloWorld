@@ -5,3 +5,4 @@ we will be using anaconda jupyter for python.
 we will use anaconda rstudio for r.
 we will not use any other anaconda tools other than these two
 Thank you.
+:)
