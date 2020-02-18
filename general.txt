@@ -4,5 +4,6 @@ also we will discuss r language
 we will be using anaconda jupyter for python.
 we will use anaconda rstudio for r.
 we will not use any other anaconda tools other than these two
-Thank you.
+Thank you everyone.
+will see you tomorrow
 :)
